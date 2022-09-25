@@ -4,7 +4,7 @@ The repository containing all the downloads, assets, and releases for TedacMC
 ## FAQs and Issues
 
 ### How do I downgrade?
-If you are on mobile or console, sorry there is no way to downgrade on those devices. For PC, you can use [this](https://github.com/MCMrARM/mc-w10-version-launcher) launcher to downgrade to pretty much any version (including 1.12)!
+If you are on mobile or console, sorry there is no way to downgrade on those devices. For PC, you can use [this](https://github.com/MCMrARM/mc-w10-version-launcher/releases/tag/0.4.0) launcher to downgrade to pretty much any version (including 1.12)!
 
 ### I'm stuck on locating server and/or I can't join the server!
   There are probably either two things that are occuring:

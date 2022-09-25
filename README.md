@@ -1,6 +1,9 @@
 # Tedac Releases
 The repository containing all the downloads, assets, and releases for TedacMC
 
+## Video Tutorial
+https://youtu.be/g16HkhzXw0I
+
 ## FAQs and Issues
 
 ### How do I downgrade?

@@ -2,7 +2,7 @@
 The repository containing all the downloads, assets, and releases for TedacMC
 
 ## Discord
-https://discord.gg/tedac
+https://discord.gg/m4FDe98V
 
 ## Video Tutorial
 https://youtu.be/g16HkhzXw0I

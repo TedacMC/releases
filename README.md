@@ -16,3 +16,5 @@ On Windows, you can use [MrARM's MCLauncher](https://github.com/MCMrARM/mc-w10-v
 
 ### I'm stuck on locating server and/or I can't join the server!
 You have most likely not done a Loopback Exempt for your PC (This prevents your PC from joining connections started from it. Refer to [this article from PMMP](https://doc.pmmp.io/en/rtfd/faq/connecting/win10localhostcantconnect.html) to learn how to fix that. __Remember to run the Loopback Exempt Fix as __Administator__ in Powershell.__
+
+You may also be connecting a server using a legacy server software (like PM3). Tedac has no intention of supporting softwares that shouldn't even be supported in modern times. If this is an issue for you, tell the server owner to update their code/software!

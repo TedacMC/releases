@@ -13,6 +13,7 @@ https://youtu.be/g16HkhzXw0I
 If you are on mobile (except Android) or console, there's unfortunately no reliable way to downgrade.
 
 On Windows, you can use [MrARM's MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher/releases/tag/0.4.0) to downgrade to pretty much any version (including 1.12)!
+
 On Android, you can use [MrARM's MCAndroidVersionSwitcher](https://github.com/MCMrARM/mc-android-version-switcher) to downgrade to pretty much any version (including 1.12) or download APK file with your version.
 
 ### I'm stuck on locating server and/or I can't join the server!
